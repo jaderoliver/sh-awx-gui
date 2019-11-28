@@ -10,7 +10,7 @@ Sera instalado todos os pacotes necessários para o uso do Ansible com a interfa
 -> Conexão com a Internet
 
 <h4> How to change logo </h4>
-Abaixo os 2 diretorios e nome dos arquivos que podem ser substituido pelo seu que contenha seu logo.
+Abaixo os 2 diretorios que contem os arquivos de logo default da instalação, para alterar os logos substitua os mesmos.
 
 --> /opt/awx/static/assets/awx/logo-login.svg
 
